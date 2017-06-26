@@ -1,0 +1,64 @@
+h1{
+    color:#868686;
+    font-size:2em;
+}
+.nav-pills>li>a{
+    font-size:1.2em;
+    border-radius:0;
+    color:#868686;
+}
+a{
+    color:#ccc;
+}
+#inn{
+    padding-right:0;
+    background-color:#262a33;
+}
+.navbar-brand{
+    padding-top:1em;
+    color:#fff !important;
+    font-size:2em;
+}
+.navbar-text{
+    padding-top:1.5em;
+    color:#fff !important;
+}
+.navbar-default{
+    background-color:#3fb4c6;
+    height:6em;
+}
+.biao{
+    padding-top:1em;
+    font-size:1em;
+}
+.biao a{
+    color:#868686;
+}
+label{
+    color:#000;
+    font-weight:normal;
+}
+.nav .active a{
+    background-color:#3fb4c6 !important;
+}
+.btn-primary{
+    border:0;
+    background-color:#3fb4c6 !important;
+}
+.pagination>li>a,
+.pagination>li>span {
+    color:#3fb4c6 !important;
+}
+span.limit{
+    margin-top:7px;
+    color:red;
+    display:none;
+}
+span.prompt{
+    color: red;
+    margin-right: 4px;
+    font-size: 1.1em;
+}
+.margin{
+    margin-top: 5px;
+}
